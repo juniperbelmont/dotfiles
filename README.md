@@ -1,4 +1,6 @@
-# Mathias’s dotfiles
+# Juniper's dotfiles
+
+Copied liberally from Mathias's dotfiles.
 
 ![Screenshot of my shell prompt](http://i.imgur.com/EkEtphC.png)
 
